@@ -1,0 +1,19 @@
+ {
+ "account_list" :[
+ {
+ "account" : "Amazon",
+ "login" : "foo@bar.com",
+ "pass" : "abcdefg"
+ },
+ {
+ "account" : "Google",
+ "login" : "google@bar.com",
+ "pass" : "googlepass"
+ },
+ {
+ "account" : "Facebook",
+ "login" : "facebook@bar.com",
+ "pass" : "abcdefacebookg"
+ }
+ ]
+ }
